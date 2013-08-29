@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.TestPlugin</class>
+    <name>TestMY</name>
+    <description>Exposes Test information through HTTP.</description>
+    <author>zaqzaq Software</author>
+    <version>1.5.5</version>
+    <date>2/15/2013</date>
+    <minServerVersion>3.7.0</minServerVersion>
+	
+    <adminconsole>		
+    </adminconsole>
+</plugin>
